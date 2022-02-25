@@ -48,10 +48,10 @@ div.qrcard {
 
 ### Useful resources
 
-- [Vertical Centering](https://blog.logrocket.com/13-ways-vertically-center-html-elements-css/) - This article helped to with centering my elements.
+- [Vertical Centering](https://blog.logrocket.com/13-ways-vertically-center-html-elements-css/) - This article helped me with centering elements on the webpage.
 
 
 ## Author
 
-- Github - [Umesh] (https://github.com/umeshchavda05)
+- Github - [Umesh](https://github.com/umeshchavda05)
 - Frontend Mentor - [@umeshchavda05](https://www.frontendmentor.io/profile/umeshchavda05)

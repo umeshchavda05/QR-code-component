@@ -4491,36 +4491,6 @@ textarea.form-control-lg {
   color: #fff;
 }
 
-div.qrcard{
-  height: 95vh;
-}
-
-img.qrcode{
-border-radius: 1rem;
-}
-
-p.heading{
-  font-size: 19px; 
-  font-family: 'Outfit', sans-serif; 
-  font-weight: 700;
-  color: hsl(218, 44%, 22%);
-}
-p.subtext{
-  font-size: 14px; 
-  font-family: 'Outfit', sans-serif; 
-  font-weight: 400;
-  color: hsl(220, 15%, 55%);
-}
-
-.attribution{
-  font-size: 11px;
-  text-align: center;
-}
-
-a.namelink{
-  color: hsl(228, 45%, 44%);
-}
-
 .card {
   position: relative;
   display: flex;
