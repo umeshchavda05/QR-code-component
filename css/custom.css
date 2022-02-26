@@ -1,6 +1,10 @@
  div.qrcard{
   height: 95vh;
   }
+
+div.card-text{
+  margin-top: 18px;
+}
   
 img.qrcode{
   border-radius: 1rem;
@@ -20,6 +24,7 @@ h2.subtext{
   font-weight: 400;
   color: hsl(220, 15%, 55%);
   line-height: 20px;
+  margin-top: 15px;
   }
   
 .attribution{
